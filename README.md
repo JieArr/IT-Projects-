@@ -1,1 +1,1 @@
-This repository is for the projects for it course
+This repository is for the submission of my CSS Responsive activity.
